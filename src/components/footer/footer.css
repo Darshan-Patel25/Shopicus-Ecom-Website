@@ -1,0 +1,91 @@
+.footer{
+    height: 60vh;
+    width: 99vw;
+    color: white;
+    background-color: black;
+}
+.footer h1{
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    font-weight: 500;
+    padding-top: 40px;
+}
+
+.footer-two{
+    margin: 50px;
+    display:flex;
+   margin-top: 50px;
+}
+.about{
+    width: 33%;
+}
+.about h3{
+margin-left: 20px;
+}
+.about p{
+    font-size: 18px;
+    padding: 20px 20px 0px 20px;
+}
+.footer-link{
+    width: 33%;
+    
+}
+.footer-link h3{
+    padding-left: 90px;
+}
+.footer-link ul{
+    margin-top: 18px;
+    font-size: 18px;
+    padding-left: 100px;
+}
+.l1{
+    font-size: 25px;
+    margin-left: 70px;
+}
+.l2{
+    font-size: 30px;
+    margin-left: 70px;
+    margin-top: 30px;
+   
+}
+.l3{
+    font-size: 20px;
+    color: rgb(215, 215, 219);
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.footer span{
+    display: flex;
+    justify-content: center;
+    font-size: 19px;
+    font-weight: 300;
+}
+
+.about .faicon{
+    width: 250px;
+    font-size: 30px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.about #instra:hover{
+    color:rgb(208, 99, 194);
+}
+.about #facebook:hover{
+    color:rgb(70, 12, 243);
+}
+.about #twiter:hover{
+    color:rgb(250, 238, 74);
+}
+.about #linkdin:hover{
+    color:rgb(62, 165, 229);
+}
+.footer-logo img{
+    width:100px;
+    height:110px;
+    margin-top: -13px;
+    margin-right: 10px;
+}
